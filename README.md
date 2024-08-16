@@ -7,7 +7,7 @@ Possuo mais de 15 anos de experiência em TI em diversos papéis, inclusive de g
 - 🔭 Atualmente estou em transição de carreira para área de programação, que sempre foi meu sonho.
 - 🌱 Estou estudando principalmente JAVA e Javascritp (React.js, Next.js, Typescript, etc)
 - 💻 Sou bacharel em Informática (ênfase em Desenvolvimento) na Universidade Estácio de Sá
-- 📫 Para me encontrar, pode enviar um e-mail para: fabio.henrique.ss.matos@gmail.com ou me encontro no [X - Twitter](https://x.com/gleekrj).
+- 📫 Para me encontrar, pode enviar um e-mail para: fabio.henrique.ss.matos@gmail.com ou fale comigo no [X - Twitter](https://x.com/gleekrj).
 
 # 💻 Tecnologias e Ferramentas
 
