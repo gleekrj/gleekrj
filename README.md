@@ -28,6 +28,9 @@ Possuo mais de 15 anos de experiência em TI em diversos papéis, inclusive de g
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gleekrj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/gleekrj/gleekrj/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **gleekrj/gleekrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
